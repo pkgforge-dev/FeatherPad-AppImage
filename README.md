@@ -1,19 +1,19 @@
 <div align="center">
 
-# TEMPLATE-AppImage 🐧
+# FeatherPad-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/TEMPLATE-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/TEMPLATE-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/TEMPLATE-AppImage)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/FeatherPad-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/FeatherPad-AppImage/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/FeatherPad-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/FeatherPad-AppImage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/FeatherPad-AppImage)](https://github.com/pkgforge-dev/FeatherPad-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://raw.githubusercontent.com/tsujan/FeatherPad/0575ef3185f56720e0a4544ac3d2266dc1743099/featherpad/data/icons/featherpad.svg" width="128" />
 </p>
 
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest) | [Click here](https://github.com/pkgforge-dev/Anylinux-AppImages) |
+| [Click here](https://github.com/pkgforge-dev/FeatherPad-AppImage/releases/latest) | [Click here](https://github.com/tsujan/FeatherPad) |
 
 </div>
 
